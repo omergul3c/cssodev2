@@ -1,0 +1,33 @@
+.container{
+	width: 1000px;
+	margin: 0 auto;
+    width: 90%;
+	text-align: center;
+}
+
+.google-logo{
+
+}
+
+.left-bar{
+	background-color: #7EE5DA;
+	float:left;
+	width: 33%;
+	height: 150px;
+}
+
+.center-bar{
+	background-color: #70CCC2;	
+	float:left;
+	width: 32%;
+	height: 150px;
+	margin: auto;
+}
+
+.right-bar{
+	background-color: #62B3AA;
+	float:left;
+	width: 35%;
+	height: 150px;
+}
+
